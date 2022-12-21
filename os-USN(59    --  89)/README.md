@@ -1,7 +1,9 @@
 # DBMS-DOCKER-Project
-KAUSHIKI SHAHA 1MS20CS059
-SWAPNA RAMINENI 1MS20CS089
- DBMS project on topic Online Examination System
+<b>KAUSHIKI SHAHA 1MS20CS059</b>
+
+<b>SWAPNA RAMINENI 1MS20CS089</b>
+
+DBMS project on topic Online Examination System
 
 <b>Technology Used:</b>
 
